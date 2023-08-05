@@ -104,7 +104,7 @@ cat << EOF > $CUR_DIR/${ac}-explorer/bitcore-node.json
         }
       ]
     },
-  "insight-api-komodo": {
+  "api": {
     "rateLimiterOptions": {
       "whitelist": ["::ffff:127.0.0.1","127.0.0.1"],
       "whitelistLimit": 500000,
